@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeyColorColorizerExample", "KeyColorColorizerExample\KeyColorColorizerExample.vbproj", "{B3BA17E2-D216-4329-8745-5824830345CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BA17E2-D216-4329-8745-5824830345CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BA17E2-D216-4329-8745-5824830345CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BA17E2-D216-4329-8745-5824830345CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BA17E2-D216-4329-8745-5824830345CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
