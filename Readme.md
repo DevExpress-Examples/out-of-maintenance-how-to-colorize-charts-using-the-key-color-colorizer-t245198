@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GDP.xml](./CS/KeyColorColorizerExample/Data/GDP.xml) (VB: [GDP.xml](./VB/KeyColorColorizerExample/Data/GDP.xml))
+* [Form1.cs](./CS/KeyColorColorizerExample/Form1.cs) (VB: [Form1.vb](./VB/KeyColorColorizerExample/Form1.vb))
+<!-- default file list end -->
 # How to colorize charts using the Key-Color Colorizer
 
 
