@@ -17,11 +17,11 @@ namespace KeyColorColorizerExample {
             // Create and customize a bar series.
             Series barSeries = new Series() {
                 DataSource = LoadData(filepath),
-                Colorizer = CreateColorizer(),
                 ArgumentDataMember = "Country",
                 ColorDataMember = "Region",
                 View = new SideBySideBarSeriesView()
             };
+            barSeries.View.Colorizer = CreateColorizer();
             barSeries.ValueDataMembers.AddRange(new string[] { "Product" });
             #endregion #BarSeries
 
